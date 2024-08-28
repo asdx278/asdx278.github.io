@@ -1,0 +1,6 @@
+baseURL: https://asdx278.github.io/
+languageCode: en-us
+title: personal site
+module:
+  imports:
+  - path: github.com/McShelby/hugo-theme-relearn
